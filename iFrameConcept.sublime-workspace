@@ -1,0 +1,449 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"targ",
+				"target"
+			],
+			[
+				"off",
+				"offsetX"
+			],
+			[
+				"ofe",
+				"offsetX"
+			],
+			[
+				"target",
+				"targetWidth"
+			],
+			[
+				"of",
+				"offsetX"
+			],
+			[
+				"mo",
+				"moveiFrame"
+			],
+			[
+				"if",
+				"iframe"
+			],
+			[
+				"ifra",
+				"iframeX"
+			],
+			[
+				"ifr",
+				"iframeX"
+			],
+			[
+				"mous",
+				"mouseX"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"con",
+				"construct"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"inl",
+				"inline-block"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/user/Documents/workspace/iframeConcept/index.php",
+			"settings":
+			{
+				"buffer_size": 1083,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "style.css",
+			"settings":
+			{
+				"buffer_size": 900,
+				"line_ending": "Windows",
+				"name": "body {"
+			}
+		},
+		{
+			"file": "keyhole2.js",
+			"settings":
+			{
+				"buffer_size": 919,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/user/Documents/workspace/iframeConcept"
+	],
+	"file_history":
+	[
+		"/C/Users/user/Documents/workspace/iframeconcept/keyhole.js",
+		"/C/Users/user/Documents/workspace/GiusyPirrotta/css/textPage.css",
+		"/C/Users/user/Documents/workspace/GiusyPirrotta/header.php",
+		"/C/Users/user/Documents/workspace/GiusyPirrotta/bio.php",
+		"/C/Users/user/Documents/workspace/GiusyPirrotta/textPageHead.php",
+		"/C/Users/user/Documents/workspace/GiusyPirrotta/index.php",
+		"/C/Users/user/Documents/workspace/GiusyPirrotta/css/work.css",
+		"/C/Users/user/Documents/workspace/GiusyPirrotta/statement.php",
+		"/C/Users/user/Documents/workspace/GiusyPirrotta/workHead.php",
+		"/C/Users/user/Documents/workspace/GiusyPirrotta/work/the_quality_of_scale/index.php",
+		"/C/Users/user/Documents/workspace/GiusyPirrotta/work/untitled_48/index.php",
+		"/C/Users/user/Documents/workspace/GiusyPirrotta/work/vanishing_point/index.php",
+		"/C/Users/user/Documents/workspace/GiusyPirrotta/work/hawaii/index.php",
+		"/C/Users/user/Documents/workspace/GiusyPirrotta/work/lightsign_rainbow/index.php",
+		"/C/Users/user/Documents/workspace/GiusyPirrotta/work/reversed_light/index.php",
+		"/C/Users/user/Documents/workspace/GiusyPirrotta/work/rgb/index.php",
+		"/C/Users/user/Documents/workspace/GiusyPirrotta/work/the_drama_of_a_single_day/index.php",
+		"/C/Users/user/Documents/workspace/GiusyPirrotta/work/enlighten/index.php",
+		"/C/Users/user/Documents/workspace/GiusyPirrotta/work/crystal_ship/index.php",
+		"/C/Users/user/Documents/workspace/GiusyPirrotta/work/a_distribution_in_linear_thinking/index.php",
+		"/C/Users/user/Documents/workspace/GiusyPirrotta/css/homepage.css",
+		"/C/Users/user/Documents/workspace/GiusyPirrotta/enlighten/index.php",
+		"/C/Users/user/Documents/workspace/GiusyPirrotta/css/style.css",
+		"/C/Users/user/Documents/workspace/GiusyPirrotta/a_distribution_in_linear_thinking/index.php",
+		"/C/Users/user/Documents/workspace/GiusyPirrotta/vanishing_point/index.php",
+		"/C/Users/user/Documents/workspace/GiusyPirrotta/rgb/index.php",
+		"/C/Users/user/Documents/workspace/GiusyPirrotta/untitled_48/index.php",
+		"/C/Users/user/Documents/workspace/GiusyPirrotta/the_drama_of_a_single_day/index.php",
+		"/C/Users/user/Documents/workspace/GiusyPirrotta/crystal_ship/index.php",
+		"/C/Users/user/Documents/workspace/GiusyPirrotta/reversed_light/index.php",
+		"/C/Users/user/Documents/workspace/GiusyPirrotta/js/language.js",
+		"/C/Users/user/Documents/workspace/GiusyPirrotta/the_quality_of_scale/index.php",
+		"/C/Users/user/Documents/workspace/GiusyPirrotta/lightsign_rainbow/index.php",
+		"/C/Users/user/Documents/workspace/GiusyPirrotta/footer.php",
+		"/C/Users/user/Documents/workspace/GiusyPirrotta/work/lightsign_rainbow/lightsign_rainbow.php",
+		"/C/Users/user/Documents/workspace/GiusyPirrotta/index.html",
+		"/C/Users/user/Documents/workspace/GiusyPirrotta/work/lightsign_rainbow.html",
+		"/C/Users/user/Documents/Developer Work/GiusyPirrotta/index.html",
+		"/C/Users/user/Documents/Developer Work/GiusyPirrotta/CSS/style.css",
+		"/C/Users/user/Documents/Developer Work/GiusyPirrotta/CSS/reset.css"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"5",
+			"X",
+			"position",
+			"100",
+			"targetHalfWidth",
+			"circle",
+			"1px",
+			"400px",
+			"italian",
+			"font-size",
+			"/images/",
+			"..",
+			"path",
+			"src=\"",
+			"href=\"",
+			"luci",
+			"localStorage",
+			"window.localStorage.langu",
+			"localStorage.language",
+			"localStorage",
+			"Language",
+			"language",
+			"0",
+			"/img",
+			"img",
+			"div",
+			"\n            \n\n            ",
+			"\n            \n\n            \n                ",
+			"\n                ",
+			"\n\n            ",
+			"</div>",
+			"<div>",
+			"rgb_",
+			"work/",
+			"_",
+			"lightsign_rainbow",
+			"../../",
+			"work/",
+			"html",
+			"lightsign_rainbow",
+			"work/lightsign_rainbow/lightsign_rainbow.html",
+			"images/light_sign.jpg",
+			"../",
+			"CSS",
+			"../",
+			"li",
+			"</a></li>",
+			"<li><a",
+			"<li><a>",
+			"li",
+			"class=\"",
+			"à",
+			"è",
+			"\"",
+			"id",
+			"top",
+			"cream-left-one",
+			"vidContainer",
+			"</li>",
+			"<li>",
+			"<p>Lightsign_Rainbow</p></a>",
+			"<img src=\"images/light_sign.jpg\" />\n                    <p>Lightsign_Rainbow</p>",
+			" class=\"work_link\""
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"vid1"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "C:\\Users\\user\\Documents\\workspace\\iframeConcept"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/user/Documents/workspace/iframeConcept/index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1083,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								689,
+								689
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 900,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								408,
+								408
+							]
+						],
+						"settings":
+						{
+							"auto_name": "body {",
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 270.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "keyhole2.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 919,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								709,
+								709
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 90.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 219.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

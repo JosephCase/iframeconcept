@@ -19,7 +19,7 @@ var keyhole = function() {
 		var targetWidth = $target.width();
 		var targetHeight = $target.height();
 		var originX = (targetWidth / 2) + $target.offset().left;
-		var originY = $target.offset().top;
+		var originY = (targetHeight / 2) + $target.offset().top;
 		
 		var mouseX = event.pageX;
 		var mouseY = event.pageY;
@@ -28,8 +28,13 @@ var keyhole = function() {
 		var offsetY = mouseY - originY;
 
 		var positionX = -offsetX - targetWidth/2;
-		var positionY = -offsetY;
 
+		var positionY = 0;
+		if (offsetY > 0) {
+			positionY = -offsetY * 2;
+		} else {
+			positionY = 0;
+		}
 		var $iframe = $target.siblings("iframe");
 
 		$iframe.css("left", positionX);
